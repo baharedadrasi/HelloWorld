@@ -1,0 +1,5 @@
+# Creates an empty git repository
+git init
+
+# Adds file to the stage
+git add .
