@@ -3,3 +3,5 @@ git init
 
 # Adds file to the stage
 git add .
+
+git commit
